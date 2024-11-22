@@ -26,7 +26,7 @@ DEFAULT_AZURE_API_VERSION = "2024-02-01"
 OAI_PRICE1K = {
     # https://openai.com/api/pricing/
     # gpt-4o
-    "gpt-4o": (0.005, 0.015),
+    "gpt-4o": (0.0025, 0.01),
     "gpt-4o-2024-05-13": (0.005, 0.015),
     "gpt-4o-2024-08-06": (0.0025, 0.01),
     # gpt-4-turbo
